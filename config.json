@@ -1,0 +1,6 @@
+{
+    "rversions": [
+        "https://cran.r-project.org/bin/macosx/old/R-3.0.3.pkg"
+    ],
+    "rswitch": "http://groundhogr.com/rswitch/RSwitch-1.7.0.app.zip"
+}
